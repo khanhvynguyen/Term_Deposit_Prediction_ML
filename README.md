@@ -1,13 +1,13 @@
 
-1  Introduction
+**1  Introduction**
 
 Term deposit is always a key business of a bank and a good marketing campaign plays an important role in financial selling. Nowadays, the telephone marketing, which can assist consulting institution to extract potential clients, has been one of the most general marketing campaigns. The objective of this project is to predict the result of phone calls to long term deposits. The results will be valuable to assist managers in prioritizing and selecting the next customers to be contacted during the term deposit campaigns.
 
-2  Machine learning problem
+**2  Machine learning problem**
 
 The classification approach to predict which clients are more likely to subscribe for the term deposits.
 
-3  Dataset information
+**3  Dataset information**
 
 Dataset is collected from UCI Machine learning Repository.
 
@@ -17,7 +17,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 The dataset provides the customers' information of the bank from May 2008 to November 2010. It includes 41,188 records and 21 fields.
 
-3.1  Input variables:
+**3.1  Input variables**
 
 Bank client data
 
@@ -65,7 +65,7 @@ social and economic context attributes
 
 20 - nr.employed: number of employees - quarterly indicator (numeric)
 
-3.2  Output variable (desired target):
+**3.2  Output variable (desired target)**
 
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
