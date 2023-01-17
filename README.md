@@ -8,7 +8,7 @@ This project aims to predict the outcome of phone calls made by a bank to potent
 
 The problem is approached as a binary classification problem, with the goal of predicting which clients are more likely to subscribe for a term deposit.
 
-The dataset [[link]](https://archive.ics.uci.edu/ml/datasets/bank+marketing#) used in this project was collected from the UCI Machine Learning Repository. The dataset contains information on direct marketing campaigns made by a Portuguese banking institution between May 2008 and November 2010, with a total of 41,188 records and 21 fields. The classification goal is to predict whether the client will subscribe (1/0) to a term deposit.
+The dataset [[link]](https://archive.ics.uci.edu/ml/datasets/bank+marketing#) used in this project was collected from the UCI Machine Learning Repository. The dataset contains information on direct marketing campaigns made by a Portuguese banking institution between May 2008 and November 2010, with a total of 41,188 records and 21 fields. The classification goal is to predict whether the client will subscribe (1: yes;  0: no) to a term deposit.
 
 
 # 3. Usage
