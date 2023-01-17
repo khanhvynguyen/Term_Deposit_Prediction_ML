@@ -1,7 +1,7 @@
 
 # 1.  Introduction
 
-Term deposit is always a key business of a bank and a good marketing campaign plays an important role in financial selling. 
+A term deposit is a key product offered by banks and an effective marketing campaign can play a crucial role in its sales success.
 This project aims to predict the outcome of phone calls made by a bank to potential long-term deposit clients. The results of this project will assist managers in prioritizing and selecting customers to contact during future marketing campaigns.
 
 # 2.  Problem and Dataset
