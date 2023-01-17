@@ -20,4 +20,4 @@ The dataset used in this project was collected from [the UCI Machine Learning Re
   + Models: Logistic regression, Random Forest, [XGBoost](https://xgboost.readthedocs.io/en/stable/), [LightGBM](https://lightgbm.readthedocs.io/en/latest/Parameters.html)
   + Evaluation: Accuracy, F1 score
   + Interpret model: [SHAP](https://github.com/slundberg/shap)
-- Use the trained models to predict the outcome of new phone calls.
+- Use the trained models to predict for new observations
