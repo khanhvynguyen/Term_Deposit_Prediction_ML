@@ -14,5 +14,9 @@ The dataset [[link]](https://archive.ics.uci.edu/ml/datasets/bank+marketing#) us
 # 3. Usage
 
 - Download or clone this project
-- Run [the Jupyter notebook](https://github.com/khanhvynguyen/Term_Deposit_Prediction_ML/blob/main/term_deposit_prediction.ipynb), which walks through the process of Exploratory Data Analysis (EDA), Pre-processing, Modeling (Logistic regression, XGBoost, LightGBM), Evaluation, and Feature importance (using SHAP) of the model .
+- Run [the Jupyter notebook](https://github.com/khanhvynguyen/Term_Deposit_Prediction_ML/blob/main/term_deposit_prediction.ipynb), which walks through:
+  + Exploratory Data Analysis (EDA), Pre-processing
+  + Modeling: Logistic regression, [XGBoost](https://xgboost.readthedocs.io/en/stable/), [LightGBM](https://lightgbm.readthedocs.io/en/latest/Parameters.html)
+  + Evaluation: Accuracy, F1 score
+  + Interpret model: [SHAP](https://github.com/slundberg/shap)
 - Use the trained models to predict the outcome of new phone calls.
