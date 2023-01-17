@@ -14,7 +14,7 @@ The dataset [[link]](https://archive.ics.uci.edu/ml/datasets/bank+marketing#) us
 # 3. Usage
 
 - Download or clone this project
-- Run [the Jupyter notebook](https://github.com/khanhvynguyen/Term_Deposit_Prediction_ML/blob/main/term_deposit_prediction.ipynb), which walks through:
+- Run [the Jupyter notebook](https://nbviewer.org/github/khanhvynguyen/Term_Deposit_Prediction_ML/blob/main/term_deposit_prediction.ipynb), which walks through:
   + Exploratory Data Analysis (EDA), Pre-processing
   + Modeling: Logistic regression, [XGBoost](https://xgboost.readthedocs.io/en/stable/), [LightGBM](https://lightgbm.readthedocs.io/en/latest/Parameters.html)
   + Evaluation: Accuracy, F1 score
