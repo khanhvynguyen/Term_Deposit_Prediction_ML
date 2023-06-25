@@ -14,7 +14,7 @@ The dataset used in this project was collected from [the UCI Machine Learning Re
 # 3. Usage
 
 - Download or clone this project
-- Run [the Jupyter notebook](https://nbviewer.org/github/khanhvynguyen/Term_Deposit_Prediction_ML/blob/main/term_deposit_prediction.ipynb), which walks through:
+- Run [the Jupyter notebook](https://nbviewer.org/github/khanhvynguyen/Term_Deposit_Prediction_ML/blob/main/term_deposit_prediction_VyNguyen_FINAL.ipynb), which walks through:
   + Exploratory Data Analysis (EDA)
   + Pre-processing: [SMOTE](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html), one-hot encoding, label encoder,...
   + Models: Logistic regression, Random Forest, [XGBoost](https://xgboost.readthedocs.io/en/stable/), [LightGBM](https://lightgbm.readthedocs.io/en/latest/Parameters.html)
